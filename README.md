@@ -10,3 +10,6 @@ To learn how to directly modify TFLite models, check [this notebook](SSDLite_(pl
 
 ## Acknowledgments:
 * https://github.com/GreenWaves-Technologies/licence_plate_recognition
+
+## Disclaimer
+* Use it at your own risk and, please, [don't be evil](https://www.youtube.com/watch?v=b23wrRfy7SM) ;)
